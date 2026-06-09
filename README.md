@@ -37,7 +37,6 @@
 
 ---
 ### 🔹 Data Science Internship – LearnFlu
-### 🔹 Data Science Internship – LearnFlu
 
 Completed a **Data Science Internship at LearnFlu**, gaining hands-on experience in **data analysis, preprocessing, visualization, and insight generation** using real-world datasets.
 
