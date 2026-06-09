@@ -36,6 +36,15 @@
 - UiPath Studio  
 
 ---
+### 🔹 Data Science Internship – LearnFlu
+### 🔹 Data Science Internship – LearnFlu
+
+Completed a **Data Science Internship at LearnFlu**, gaining hands-on experience in **data analysis, preprocessing, visualization, and insight generation** using real-world datasets.
+
+Worked with **Python, SQL, Excel, and Jupyter Notebook** to clean and process datasets, identify patterns, and generate meaningful insights for data-driven decision-making. Performed **data cleaning, preprocessing, trend analysis, and visualization** to improve data quality and support analytical reporting.
+
+The internship strengthened practical understanding of **Data Analytics, Machine Learning workflows, Exploratory Data Analysis (EDA), and real-world problem solving through data-driven approaches**.
+
 
 ## 🚀 Projects
 
